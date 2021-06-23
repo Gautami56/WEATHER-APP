@@ -1,0 +1,6 @@
+{
+  "WEB_SOCKET_SERVER_URL": "ws://city-ws.herokuapp.com/",
+  "DECIMAL_SHIFT": 2,
+  "COLOR": "#585858",
+  "FONT_WEIGHT": "bold"
+}

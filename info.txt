@@ -1,6 +1,0 @@
-  STEP 1 - WEB SOCKET REACTJS Connect and get the data
-
-  STEP 2 - GET THE data
-
-  STEP 3 - DISPLAY GRAPH DATA
-
